@@ -17,7 +17,6 @@ The Ticket Management System (TMS-App) is an Android application with a backend 
 1. **Clone this project from GitHub** using the <b>`git clone`</b> command.
 2. **Set up the database** with the structure specified in the <b>`"db_structure.sql"`</b> file.
 3. **Start the Java Spring Boot server** with the command <b>`./mvnw spring-boot:run`</b>
-5. **Access the application** in the browser at <b>`http://localhost:8080`</b>
 
 ## <span style="color: #4285F4"> Technologies Used
 
